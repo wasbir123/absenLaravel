@@ -1,0 +1,2 @@
+[20-Mar-2020 13:20:16 Asia/Jakarta] PHP Fatal error:  Interface 'Illuminate\Contracts\Queue\QueueableCollection' not found in /home/fadlynet/absen2/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 10
+[12-May-2020 13:59:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/fadlynet/absen2/vendor/dompdf/dompdf/src/Css/Style.php on line 847
